@@ -3,7 +3,7 @@
 let Class_Details = {
     Number_Of_Students : 50 ,
     Coordinator_Name : "Mr. Patel" ,
-    Hod_Name : "Mr. Jarnail Singh" ,
+    Hod_Name : "Mr. Singh" ,
     Placed_Students : 25 ,
     Number_Of_Regular_Students : 15 ,
     Number_Of_Inregular_Students : 10
